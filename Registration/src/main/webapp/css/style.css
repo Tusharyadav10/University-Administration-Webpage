@@ -1,0 +1,42 @@
+nav {
+	font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header {
+     width: 100vw;
+     height: fit-content;
+}
+nav {
+    display: flex;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+nav div{
+    margin: 2vw;
+}
+.logo {
+	margin-left: 10vw;
+    margin-right: 45vw;
+}
+.logo img {
+	width: 70px;
+	position: absolute;
+    top: 15px;
+}
+.main {
+    width: 100vw;
+	height: 80vh;
+	margin: 4vw;
+}
+.container {
+	margin-left: 45vw;
+	margin-top: 10vh;
+}
+button {
+	margin-left: 45px;
+}
+footer {
+	width: 100vw;
+	height: 10vh;
+}
